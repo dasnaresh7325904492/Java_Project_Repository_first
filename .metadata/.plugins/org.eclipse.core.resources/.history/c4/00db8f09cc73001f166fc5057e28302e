@@ -1,0 +1,5 @@
+package in.ashokIt.demo.entities;
+
+public class Product {
+
+}

@@ -1,0 +1,7 @@
+spring.application.name=1-Spring-Boot-Data-Jpa-First-App-01
+
+#datasource configuration properties
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521/XE
+spring.datasource.username=sys
+spring.datasource.password=7325904492
+spring.datasource.driver-class-name=oracle.jdbc.driver.OracleDriver
